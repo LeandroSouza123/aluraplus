@@ -153,6 +153,10 @@ body{
     color:var(--botao-azul);
 }
 
+.lista__link__estilo:visited{
+    color:green;
+}
+
 .rodape__lista__link a:active{
     color:rgb(77, 0, 128);
 }
